@@ -1,0 +1,1 @@
+console.log("Este programa leerá 2 vectores enteros ordenados y generará una lista ordenada de los 2")
