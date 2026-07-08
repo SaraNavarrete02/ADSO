@@ -1,0 +1,17 @@
+.card-register{
+    border-radius: 10px;
+    width: 350px;
+    padding: 20px;
+    margin: 30px;
+    align-items: center;
+    background-color: #1E1E1E;
+    border: 1px solid #080505;
+}
+.card-register form {
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+}
+#form-title{
+    color: rgb(224, 231, 30);
+}
